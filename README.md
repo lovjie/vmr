@@ -1,6 +1,6 @@
 # Enhanced Multi-modal Transformer with Mamba Decoding for Precise Video Moment Retrieval
 
-<p align="center"><img width="850" src="https://raw.githubusercontent.com/TencentARC/UMT/main/.github/model.svg"></p>
+<p align="center"><img width="850" src="(https://github.com/lovjie/vmr/blob/main/Figure%202.tiff"></p>
 
 ## Installation
 
